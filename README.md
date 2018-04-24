@@ -9,4 +9,4 @@ then run the "cod.py" python code by putting in the following command
 
 Note:Make sure you are using python3.
 
-Enjoy the Game !!
+Enjoy the Game!!
