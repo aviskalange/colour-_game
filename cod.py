@@ -25,6 +25,7 @@ def countdown():
 	if timeleft>0:
 		timeleft-=1
 		timelabel.config(text="Time Left : "+str(timeleft))
+		
 	else:
 		timelabel.config(text="Game Over")
 
